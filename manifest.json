@@ -1,0 +1,21 @@
+{
+    "name": "Smart Calculator",
+    "short_name": "Smart Calc",
+    "description": "Une calculatrice rapide et intelligente.",
+    "start_url": "./index.html",
+    "display": "standalone",
+    "background_color": "#101820",
+    "theme_color": "#101820",
+    "icons": [
+        {
+            "src": "./icone.png",
+            "sizes": "192x192",
+            "type": "image/jpeg"
+        },
+        {
+            "src": "./icone.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
